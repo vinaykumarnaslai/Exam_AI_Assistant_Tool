@@ -1,0 +1,7 @@
+pillow
+pytesseract
+pyautogui
+pyttsx3
+keyboard
+requests
+reportlab
