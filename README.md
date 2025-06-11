@@ -9,9 +9,3 @@ This tool helps students answer any visible exam question (text or image) with A
 - 🔊 Read aloud, 📋 Copy, 📝 Save options
 - Works offline (once LLM is setup)
 
-## 🛠️ Installation
-
-### 1. Clone the repo:
-```bash
-git clone https://github.com/yourusername/ai-exam-assistant.git
-cd ai-exam-assistant
